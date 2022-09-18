@@ -13,7 +13,11 @@ Term: Cohort Sep 2022
 │   ├── data.csv
 │   ├── homework.md
 │   └── homework_sol.ipynb
+├── 02-regression
+│   ├── 02_regression_hw.ipynb
+│   ├── homework.md
+│   └── housing.csv
 └── README.md
 
-1 directory, 5 files
+2 directories, 8 files
 ```
